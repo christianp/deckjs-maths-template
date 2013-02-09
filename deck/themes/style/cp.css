@@ -5,8 +5,9 @@
 }
 
 .deck-container {
+  line-height: 1.5;
   font-family: "Computer Modern Bright", Calibri, sans-serif;
-  font-size: 1.25em;
+  font-size: 1.4em;
   background: #f4fafe;
   /* W3C */
   background-attachment: fixed;
@@ -90,7 +91,7 @@
 .deck-container .slide code {
 }
 .deck-container .slide blockquote {
-  font-family: "Computer Modern Serif, Georgia, serif;
+  font-family: "Computer Modern Serif", Georgia, serif;
   font-size: 1.5em;
   padding: 1em 2em .5em 2em;
   color: #000;
