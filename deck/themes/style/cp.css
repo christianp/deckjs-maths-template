@@ -190,3 +190,6 @@
 .deck-container td {
 	padding: 0.2em 1em;
 }
+.deck-container a {
+	font-weight: bold;
+}
