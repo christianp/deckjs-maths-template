@@ -192,7 +192,7 @@
 }
 .deck-container a {
 	font-weight: bold;
-
+}
 .slide .full-height {
 	margin: 0 auto;
 	max-height: 100%;
@@ -202,4 +202,13 @@
 	margin: 0 auto;
 	max-height: 50%;
 	min-height: 50%;
+}
+.slide h1 {
+	font-size: 3em;
+}
+#title-slide h1 {
+	font-size: 4.5em;
+}
+.center {
+	text-align: center;
 }
